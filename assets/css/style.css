@@ -414,7 +414,7 @@ img {
 .btn.btn-primary {
     background: #007bff !important;
     border-radius: 5px;
-    padding: 18px 34px;
+    padding: 12px 28px;
 }
 
 .button-group {
@@ -1402,3 +1402,11 @@ footer{
     margin-left: auto;
 }
 
+.cookiealert{
+    padding: 0.75rem 0.75rem;
+    font-size: 10px;
+}
+
+.btn.btn-primary{
+    padding: 8px 22px;
+}

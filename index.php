@@ -668,7 +668,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  href="https://api.whatsapp.com/send?phone=917902525253" class="whatsapp_icon"><i class="fab fa-whatsapp"></i></a>
  
      <a title="Call Now" target="_blank"
- href="tel:+917902525253" class="call_iconbtn"><i class="fa fa-phone" aria-hidden="true"></i></a>
+ href="tel:+917902525253" class="call_iconbtn"><i class="fa fa-phone-alt" aria-hidden="true"></i></a>
 
  <div class="modal fade popsec onload_pop" id="myModal3">
             <div class="modal-dialog modal-dialog-centered">
