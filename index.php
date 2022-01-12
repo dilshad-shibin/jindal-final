@@ -49,8 +49,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img class="navbar-brand-regular" src="assets/img/logo/jindal-logo.png" alt="brand-logo">
                     <img class="navbar-brand-sticky" src="assets/img/logo/jindal-logo.png" alt="sticky brand-logo">
                 </a>
-                <button class="enq-top d-md-none" data-toggle="modal" data-target="#exampleModal0">Enquire Now
-                </button>
+                <div class="strip-button">
+                    <button class="enq-top d-md-none" data-toggle="modal" data-target="#exampleModal0">Enquire Now
+                    </button>
+                </div>
 
                 <div class="navbar-inner">
                 </div>

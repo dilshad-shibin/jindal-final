@@ -1376,3 +1376,29 @@ footer{
 #letter5 input[type=submit]{
     color: #fff;
 }
+
+/* New style Css */
+.navbar-sticky-on>.nav-container{
+    justify-content: space-between;
+}
+
+@media(min-width:768px){
+    .navbar-sticky-on .strip-button button{
+        display: flex !important;
+        background: #e77817;
+        border: none;
+        outline: none;
+        color: #fff;
+        padding: 12px 28px;
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        border-radius: 4px;
+    }
+}
+
+.navbar-sticky-on .strip-button{
+    display: flex;
+    margin-left: auto;
+}
+
